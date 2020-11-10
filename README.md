@@ -1,2 +1,3 @@
 # hello-world
-My first git hub execercise. Keep it simple.
+My first git hub exercise. Keep it simple. 
+Welcome!!
